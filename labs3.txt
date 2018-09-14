@@ -1,0 +1,9 @@
+>>> 11+17
+28
+>>> a=11
+>>> b=17
+>>> c=a+b
+>>> print c
+  File "<stdin>", line 1
+    print c
+
